@@ -1,0 +1,35 @@
+# === PDAuth - Skript Projekt ===
+
+# Pliki Skripta i Minecrafta
+*.log
+*.tmp
+*.db
+*.backup
+*.lock
+
+plugins/Skript/logs/
+plugins/Skript/scripts/backup/
+plugins/Skript/scripts/*.log
+
+# Systemowe pliki śmieciowe (Windows/macOS/Linux)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.directory
+.Trash-*
+.nfs*
+.fuse_hidden*
+
+# Pliki tymczasowe użytkownika
+*.swp
+*.swo
+*.bak
+*~
+
+# Edytory/IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
