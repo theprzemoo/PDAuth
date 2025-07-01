@@ -11,7 +11,7 @@ plugins/Skript/logs/
 plugins/Skript/scripts/backup/
 plugins/Skript/scripts/*.log
 
-# Systemowe pliki śmieciowe (Windows/macOS/Linux)
+# Systemowe pliki śmieciowe
 .DS_Store
 Thumbs.db
 ehthumbs.db
